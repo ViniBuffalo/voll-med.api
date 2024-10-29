@@ -162,8 +162,8 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-.HELP.md
-.mvnw
-.mvnw.cmd
-.gitattributes
-.mvn/wrapper
+*.md
+mvnw
+*.cmd
+*.mvn
+
